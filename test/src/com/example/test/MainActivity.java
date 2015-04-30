@@ -12,19 +12,7 @@ public class MainActivity extends Activity {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
 		
-		//testing agian
-		
-		//testing second round
-		
-		//testing again
-		
-		
-		//hello world
-		
-		//test agiankdajldjalsjfla
-		
-		
-		///esljsltajlasjfldsajlajl
+	
 		
 		
 	}
